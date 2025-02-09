@@ -688,7 +688,6 @@ input, textarea {
 .modal-input {
     background-color: transparent;
     outline: transparent;
-    outline: none;
     height: 40px;
     width: 100%;
     border: 1px solid rgba(46, 47, 66, 0.4);
@@ -776,6 +775,7 @@ input, textarea {
 .visually-hidden:checked+.checkbox-label>.checkbox {
     background-color: #404bbf;
     border: none;
+    fill: #f4f4fd;
 }
 
 .visually-hidden:checked+.checkbox-label>.checkbox>.checkbox-icon {
