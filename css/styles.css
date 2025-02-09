@@ -780,10 +780,6 @@ input, textarea {
     fill: #f4f4fd;
 }
 
-.checkbox-label {
-    display: flex;
-}
-
 .checkbox-container {
     margin-bottom: 24px;
 }
