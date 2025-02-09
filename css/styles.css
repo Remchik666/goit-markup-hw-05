@@ -720,7 +720,7 @@ input, textarea {
     fill: #4d5ae5;
 }
 
-.checkbox-text {
+.checkbox-label {
     font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
